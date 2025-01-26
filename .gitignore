@@ -1,0 +1,6 @@
+# Backup Files
+backup/
+
+# Other temp files
+*.log
+*.tmp
